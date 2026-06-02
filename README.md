@@ -4,7 +4,7 @@ I'm an aspiring Data Analyst with experience in marketing, commercial reporting,
 
 I’m currently rebuilding my data analytics portfolio with projects focused on the industries that particularly interest me; gaming, wellness, finance, consumer behaviour, and business insights.
 
-## What I'm Learning
+## 🎓 What I'm Learning
 
 - SQL for querying and analysing data
 - Python for data cleaning, analysis, and visualisation
@@ -12,24 +12,16 @@ I’m currently rebuilding my data analytics portfolio with projects focused on 
 - Excel for reporting, KPI tracking, and data cleaning
 - Statistics for A/B testing, trends, and deeper analysis
 
-## Portfolio Focus
+## 📁 Portfolio
 
-My projects are designed to show both technical data skills and real business thinking, including:
+My complete data analytics portfolio, including project case studies, dashboards, SQL analysis, and learning progress, can be found here:
+[🖥See Portfolio](https://github.com/riley-millard/Analysis-Projects)
 
-- Video game success analysis
-- Player behaviour and retention
-- Wellness customer segmentation
-- Churn analysis
-- Financial trend analysis
-- A/B testing
-
-## [🖥See Projects](https://github.com/riley-millard/Analysis-Projects)
-
-## Tools
+## 🛠 Tools
 
 SQL | Python | Excel | Power BI | Tableau | GitHub
 
-## Featured Projects
+## 📌 Featured Projects
 
 Coming soon:
 
