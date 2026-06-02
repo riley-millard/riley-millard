@@ -16,7 +16,7 @@ I’m currently rebuilding my data analytics portfolio with projects focused on 
 
 My complete data analytics portfolio, including project case studies, dashboards, SQL analysis, and learning progress, can be found here:
 
-[🖥See Portfolio](https://github.com/riley-millard/Analysis-Projects)
+## [🖥See Portfolio](https://github.com/riley-millard/Analysis-Projects)
 
 ## 🛠 Tools
 
