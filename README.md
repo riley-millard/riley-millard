@@ -22,6 +22,7 @@ My projects are designed to show both technical data skills and real business th
 - Churn analysis
 - Financial trend analysis
 - A/B testing
+Please click here(https://github.com/riley-millard/Analysis-Projects) to view my projects.
 
 ## Tools
 
