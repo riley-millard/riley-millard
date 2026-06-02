@@ -23,7 +23,7 @@ My projects are designed to show both technical data skills and real business th
 - Financial trend analysis
 - A/B testing
 
-## [🖥See Projects] (https://github.com/riley-millard/Analysis-Projects)
+## [🖥See Projects](https://github.com/riley-millard/Analysis-Projects)
 
 ## Tools
 
