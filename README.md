@@ -2,7 +2,7 @@
 
 I'm an aspiring Data Analyst with experience in marketing, commercial reporting, sales analysis, and dashboard creation.
 
-I’m currently rebuilding my data analytics portfolio with projects focused on gaming, wellness, finance, customer behaviour, and business insights.
+I’m currently rebuilding my data analytics portfolio with projects focused on the industries that particularly interest me; gaming, wellness, finance, consumer behaviour, and business insights.
 
 ## What I'm Learning
 
@@ -36,12 +36,6 @@ Coming soon:
 3. Wellness Customer Segmentation  
 4. Customer Churn Analysis  
 5. Gaming Industry Financial Analysis  
-
-## About Me
-
-I’m especially interested in using data to understand customer behaviour, product performance, marketing effectiveness, and growth opportunities.
-
-I’m currently looking to build a portfolio that reflects my interests in the video games, wellness, finance, and digital product industries.
 
 <!--
 **riley-millard/riley-millard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
