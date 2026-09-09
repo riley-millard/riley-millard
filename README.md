@@ -12,11 +12,19 @@ I’m currently rebuilding my data analytics portfolio with projects focused on 
 - Excel for reporting, KPI tracking, and data cleaning
 - Statistics for A/B testing, trends, and deeper analysis
 
-## 📁 Portfolio
 
-My complete data analytics portfolio, including project case studies, dashboards, SQL analysis, and learning progress, can be found here:
+## 🧠 Projects
 
-[🖥See Portfolio](https://github.com/riley-millard/Analysis-Projects)
+| Project Name | Date Completed | Tools | Description |
+|-------------|---------------|---------|-------------|
+
+
+
+## 📚 Learning Journey
+
+| Learning Activity | Skills | Status |
+|------------------|---------|---------|
+| [Kaggle Python & Pandas](https://github.com/riley-millard/Kaggle-Python-and-Pandas) | Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
 
 ## 🛠 Tools
 
