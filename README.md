@@ -4,6 +4,10 @@ I'm an aspiring Data Analyst with experience in marketing, commercial reporting,
 
 I’m currently rebuilding my data analytics portfolio with projects focused on the industries that particularly interest me; gaming, wellness, finance, consumer behaviour, and business insights.
 
+## 🛠 Tools & Skills
+
+SQL | Python | Excel | Power BI | Tableau | GitHub
+
 ## 🎓 What I'm Learning
 
 - SQL for querying and analysing data
@@ -26,19 +30,8 @@ I’m currently rebuilding my data analytics portfolio with projects focused on 
 |------------------|---------|---------|
 | [Kaggle Python & Pandas](https://github.com/riley-millard/Kaggle-Python-and-Pandas) | Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
 
-## 🛠 Tools
 
-SQL | Python | Excel | Power BI | Tableau | GitHub
 
-## 📌 Featured Projects
-
-Coming soon:
-
-1. Steam Games Success Analysis  
-2. Player Retention Analysis  
-3. Wellness Customer Segmentation  
-4. Customer Churn Analysis  
-5. Gaming Industry Financial Analysis  
 
 <!--
 **riley-millard/riley-millard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
