@@ -21,7 +21,12 @@ SQL | Python | Excel | Power BI | Tableau | GitHub
 
 | Project Name | Date Completed | Tools | Description |
 |-------------|---------------|---------|-------------|
-
+|First Independent Python Project|---------------|---------|-------------|
+|Python/Pandas Dataset Project|---------------|---------|-------------|
+|SQL, Python, Panda Combined Project|---------------|---------|-------------|
+|First ML Project - Regression + Classification|---------------|---------|-------------|
+|ML Forecasting System|---------------|---------|-------------|
+|Capstone Fully Deployed AI application|---------------|---------|-------------|
 
 
 ## 📚 Learning Journey
@@ -29,6 +34,18 @@ SQL | Python | Excel | Power BI | Tableau | GitHub
 | Learning Activity | Skills | Status |
 |------------------|---------|---------|
 | [Kaggle Python & Pandas](https://github.com/riley-millard/Kaggle-Python-and-Pandas) | Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Data Cleaning| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Data Visualisation| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|SQLBolt Course| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Intro to SQL| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Advanced SQL| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Google ML Crash Course| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Intro to Machine Learning| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Intermediate ML| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Feature Engineering| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle ML Explainability| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+|Kaggle Time Series| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
+
 
 
 
