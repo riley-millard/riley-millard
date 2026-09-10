@@ -33,6 +33,7 @@ SQL | Python | Excel | Power BI | Tableau | GitHub
 
 | Learning Activity | Skills | Status |
 |------------------|---------|---------|
+|Weekly Learning Challenge| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
 | [Kaggle Python & Pandas](https://github.com/riley-millard/Kaggle-Python-and-Pandas) | Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
 |Kaggle Data Cleaning| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
 |Kaggle Data Visualisation| Python, Pandas, Data Cleaning, Exploratory Analysis | 🟡 In Progress |
