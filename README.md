@@ -1,21 +1,33 @@
 # Hi, I'm Riley 👋
 
-I'm an aspiring Data Analyst with experience in marketing, commercial reporting, sales analysis, and dashboard creation.
+I'm a Commercial Analytics & Insights professional with experience in marketing, sales analysis, forecasting, reporting, and dashboard development.
 
-I’m currently rebuilding my data analytics portfolio with projects focused on the industries that particularly interest me; gaming, wellness, finance, consumer behaviour, and business insights.
+I'm currently expanding my technical skillset across **Python, SQL, data analytics, machine learning, and AI**, with the goal of building a versatile toolkit that bridges data analysis, software development, and applied AI.
+
+This GitHub documents my learning journey through practical challenges and projects across industries that interest me, including gaming, wellness, finance, consumer behaviour, and business.
 
 ## 🛠 Tools & Skills
 
-SQL | Python | Excel | Power BI | Tableau | GitHub
+**Currently using:**  
+Excel | Power BI | MicroStrategy | Tableau | Data Analysis | Forecasting | Commercial Analytics
+
+**Developing:**  
+Python | SQL | Git & GitHub | Machine Learning | AI Engineering
 
 ## 🎓 What I'm Learning
 
-- SQL for querying and analysing data
-- Python for data cleaning, analysis, and visualisation
-- Power BI and Tableau for dashboards and storytelling
-- Excel for reporting, KPI tracking, and data cleaning
-- Statistics for A/B testing, trends, and deeper analysis
+- 🐍 Python programming and problem solving
+- 🗃️ SQL and working with data
+- 📊 Data analysis, cleaning, visualisation, and statistical thinking
+- 🤖 Machine learning and predictive modelling
+- 🧠 Applied AI, LLMs, and AI-powered applications
+- ⚙️ Software engineering practices for building and deploying data/AI projects
 
+## 🚀 Current Focus
+
+Building strong Python foundations through hands-on exercises and independent challenges, before progressing into data manipulation, SQL, machine learning, and applied AI.
+
+Projects and exercises will be added here as I progress.
 
 ## 🧠 Projects
 
@@ -27,7 +39,6 @@ SQL | Python | Excel | Power BI | Tableau | GitHub
 |First ML Project - Regression + Classification|---------------|---------|-------------|
 |ML Forecasting System|---------------|---------|-------------|
 |Capstone Fully Deployed AI application|---------------|---------|-------------|
-
 
 ## 📚 Learning Journey
 
